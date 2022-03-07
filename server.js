@@ -68,7 +68,7 @@ if (process.env.NODE_ENV !== 'production') {
   
 
   //LOCAL SERVER
-  const PORT = process.env.port || 3000
-  app.listen(PORT,()=>{
-      console.log(`Server Run on http://localhost:${PORT}`);
-  })
+  // const PORT = process.env.port || 3000
+  // app.listen(PORT,()=>{
+  //     console.log(`Server Run on http://localhost:${PORT}`);
+  // })
